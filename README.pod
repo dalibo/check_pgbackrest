@@ -26,7 +26,8 @@ Name of the stanza to check.
 
 =item B<-O>, B<--output> OUTPUT_FORMAT
 
-The output format. Supported outputs are: C<human>, C<json> and C<nagios> (default).
+The output format. Supported outputs are: C<human>, C<json>, C<nagios> (default)
+and C<prtg>.
 
 =item B<-C>, B<--command> FILE
 

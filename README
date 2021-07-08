@@ -19,8 +19,8 @@ DESCRIPTION
         Name of the stanza to check.
 
     -O, --output OUTPUT_FORMAT
-        The output format. Supported outputs are: "human", "json" and
-        "nagios" (default).
+        The output format. Supported outputs are: "human", "json", "nagios"
+        (default) and "prtg".
 
     -C, --command FILE
         pgBackRest executable file (default: "pgbackrest").
